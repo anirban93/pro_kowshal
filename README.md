@@ -15,15 +15,26 @@ More specifically, this system is designed to allow an student to give mcq quiz 
 
 ##### Application interfaces:
 At beginning, there is a welcome screen from where user can navigate to a page where the subject names come up.
+
 ![1](https://cloud.githubusercontent.com/assets/5820924/10711715/22a20fe2-7aa6-11e5-8de5-de0ec68a0019.png)
+
 ![2](https://cloud.githubusercontent.com/assets/5820924/10711716/22aa9a4a-7aa6-11e5-9363-18e3ded00360.png)
+
 Then, when a subject name is tapped, a request to select the question set will pop up.
+
 ![3](https://cloud.githubusercontent.com/assets/5820924/10711717/22b09ed6-7aa6-11e5-9cac-b7a0870edbdd.png)
+
 After selection, the desired set will be opened and MCQ question will appear.
+
 ![4](https://cloud.githubusercontent.com/assets/5820924/10711718/22b61a82-7aa6-11e5-8daa-0356cc55147f.png)
+
 User can check their answers and complete the submission by clicking OK! button.
+
 ![5](https://cloud.githubusercontent.com/assets/5820924/10711719/22b658b2-7aa6-11e5-80e2-50077df7cfb2.png)
+
 This clicking will show them their obtained marks out of the questions. (There is a bug here, desired marks can't be placed for now, this shot was from beta version).
+
 ![6](https://cloud.githubusercontent.com/assets/5820924/10711720/22baccc6-7aa6-11e5-9832-b8c94d70f593.png)
+
 
 We hope, this application can be useful for preparations for mcq tests.
